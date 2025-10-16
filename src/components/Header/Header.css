@@ -19,7 +19,7 @@
 .navbar a {
   text-decoration: none;
   color: #000;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 17px;
   line-height: 100%;
   /* transition: all 0.3s ease; */
@@ -27,7 +27,7 @@
 
 .navbar a:hover,
 .navbar a.active {
-  font-weight: 600;
+  font-weight: 700;
   border-bottom: 2px solid #000;
   padding-bottom: 3px;
 }
@@ -37,7 +37,7 @@
   align-items: center;
   gap: 8px;
   color: #f1214f;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 16px;
   cursor: pointer;
 }
