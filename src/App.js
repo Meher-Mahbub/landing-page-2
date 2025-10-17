@@ -1,14 +1,15 @@
 import React from "react";
 import Sidebar from "./components/Sidebar/Sidebar";
 import Header from "./components/Header/Header";
+import "./App.css";
 
 function App() {
   return (
     <div>
       <Sidebar />
-      <div className="main-content">
+      <main className="main-content">
         <Header />
-      </div>
+      </main>
     </div>
   );
 }

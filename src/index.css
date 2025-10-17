@@ -1,5 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
-  font-family: "Circular Std", sans-serif;
+  font-family: "Circular Std", Inter, system-ui, -apple-system, Segoe UI, Roboto,
+    Arial, sans-serif;
   background-color: #fff;
+}
+
+.logo-v,
+.logo-i {
+  font-family: "Cochin", "Times New Roman", Times, serif;
 }
